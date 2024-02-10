@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I'm Petr.
 
-<!--
-**peberanek/peberanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to code, automate and learn. Most recently, I was a quality engineer at [Red Hat](https://www.redhat.com/). Before that, I worked at a couple of junior positions, mostly in testing.
 
-Here are some ideas to get you started:
+I'm also interested in [Behavior Design](https://behaviordesign.info/) and psychology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on:
+
+* [Twitter (X)](https://twitter.com/peberanek)
+* Discord
+* [freeCodeCamp](https://www.freecodecamp.org/peberanek)
+* [Exercism](https://exercism.org/profiles/peberanek)
+* [Behance](https://www.behance.net/petrberanek)
+
+Thanks for reading.
