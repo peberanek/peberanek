@@ -1,15 +1,9 @@
-## Hi, I'm Petr.
+# Hi, I'm Petr.
 
-I like to code, automate and learn. Most recently, I was a quality engineer at [Red Hat](https://www.redhat.com/). Before that, I worked at a couple of junior positions, mostly in testing.
+I'm interested in generative AI, automation, personal finance, and [Behavior Design](https://behaviordesign.info/) - specifically the [Tiny Habits](https://tinyhabits.com/) method.
 
-I'm also interested in [Behavior Design](https://behaviordesign.info/) and psychology.
+I'm currently exploring practical use and impact of generative AI at [Charles University](https://cuni.cz/UKEN-1.html). Before that, I was a software quality engineer at [Red Hat](https://www.redhat.com/).
 
-You can find me on:
-
-* [Twitter (X)](https://twitter.com/peberanek)
-* Discord
-* [freeCodeCamp](https://www.freecodecamp.org/peberanek)
-* [Exercism](https://exercism.org/profiles/peberanek)
-* [Behance](https://www.behance.net/petrberanek)
+Feel free to check out my [personal website](https://peberanek.github.io/).
 
 Thanks for reading.
