@@ -1,3 +1,3 @@
-_Tinkering with open-source software, including Linux, Python and generative AI_
+_Open source enthusiast focused on Linux, automation with Python, and practical use of large language models._
 
 [Personal Website](https://peberanek.github.io/)
